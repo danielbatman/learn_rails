@@ -70,3 +70,13 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# learn-rails
+gem 'bootstrap-sass'
+gem 'gibbon'
+gem 'high_voltage'
+gem 'jquery-rails'
+group :development do
+  gem 'better_errors'
+  gem 'rails_layout'
+end
